@@ -19,6 +19,7 @@
 						<hotfixBranchPrefix>hotfix/</hotfixBranchPrefix>
 						<versionTagPrefix />
 					</flowInitContext>
+					<enableSshAgent>true</enableSshAgent>
 					<useReleaseProfile>false</useReleaseProfile>
 					<pushReleases>true</pushReleases>
 				</configuration>
